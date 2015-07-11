@@ -360,5 +360,6 @@ var searchData=
   ['average_5fcam_5fframes_5fdname',['Average_cam_frames_dname',['../AOloopControl_8c.html#a15bf87225e43ca5f1b9d05b1a14b06c0',1,'AOloopControl.c']]],
   ['average_5fcam_5fframes_5fiddark',['Average_cam_frames_IDdark',['../AOloopControl_8c.html#a282b71a3e6ef11808ffd8bc10c9faf12',1,'AOloopControl.c']]],
   ['average_5fcam_5fframes_5fnelem',['Average_cam_frames_nelem',['../AOloopControl_8c.html#a9b11e27293cb519d00bc33ee088bf9af',1,'AOloopControl.c']]],
+  ['adaptive_20optics_20control',['Adaptive Optics control',['../md_README.html',1,'']]],
   ['ao_20loop_20control_20overview',['AO loop control Overview',['../md_src_AOloopControl_README.html',1,'']]]
 ];

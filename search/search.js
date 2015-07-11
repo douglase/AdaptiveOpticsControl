@@ -16,7 +16,7 @@ var indexSectionsWithContent =
   6: "y",
   7: "nt",
   8: "_abcdefilmnoprstuy",
-  9: "acp"
+  9: "ac"
 };
 
 var indexSectionNames =

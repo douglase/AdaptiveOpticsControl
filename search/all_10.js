@@ -1,6 +1,5 @@
 var searchData=
 [
-  ['project_20readme_20file',['Project README file',['../md_README.html',1,'']]],
   ['pacos',['Pacos',['../COREMOD__arith_8c.html#abbc0c6a10142c07dc34d9fffdcd1b177',1,'COREMOD_arith.c']]],
   ['padd',['Padd',['../COREMOD__arith_8c.html#aa6349eff12f2596bf41a2621c56f27bc',1,'COREMOD_arith.c']]],
   ['parseerror',['parseerror',['../structDATA.html#a04c14ba8ea1844e3f68888dca0fe3519',1,'DATA']]],

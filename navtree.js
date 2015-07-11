@@ -1,7 +1,7 @@
 var NAVTREE =
 [
   [ "AdaptiveOpticsControl", "index.html", [
-    [ "Project README file", "md_README.html", null ],
+    [ "Adaptive Optics control", "md_README.html", null ],
     [ "AO loop control Overview", "md_src_AOloopControl_README.html", null ],
     [ "Command Line Interface (CLI)", "md_src_CLIcore.html", null ],
     [ "Data Structures", null, [
