@@ -4,7 +4,7 @@
 <meta http-equiv="Content-Type" content="text/xhtml;charset=UTF-8"/>
 <meta http-equiv="X-UA-Compatible" content="IE=9"/>
 <meta name="generator" content="Doxygen 1.8.8"/>
-<title>AdaptiveOpticsControl: AO loop control Overview</title>
+<title>AdaptiveOpticsControl: AO loop control</title>
 <link href="tabs.css" rel="stylesheet" type="text/css"/>
 <script type="text/javascript" src="jquery.js"></script>
 <script type="text/javascript" src="dynsections.js"></script>
@@ -96,7 +96,7 @@ $(document).ready(function(){initNavTree('md_src_AOloopControl_README.html','');
 
 <div class="header">
   <div class="headertitle">
-<div class="title">AO loop control Overview </div>  </div>
+<div class="title">AO loop control </div>  </div>
 </div><!--header-->
 <div class="contents">
 <div class="textblock"><p>This module allows control of adaptive optics (AO) control loops.</p>
@@ -107,10 +107,10 @@ $(document).ready(function(){initNavTree('md_src_AOloopControl_README.html','');
 <li>single process can control multiple loops</li>
 <li>Can use either CPU(s) or GPU(s) for computations</li>
 </ul>
-<h1>Top-level script: aolrun</h1>
-<p>The top-level script is aolrun.</p>
-<p>Script aolrun initializes the control loop by reading configuration input parameters, and then responds to changes in the "wavefront sensor input" image. Control loops are numbered. The loop number is read from local file LOOPNUMBER.</p>
-<h2>Required input for aolrun, prior setup</h2>
+<h1>Scripts</h1>
+<h2>aolconf (top level script)</h2>
+<p>The top level script is aolconf, which is used to configure the loop and run it. It also includes a test mode with a simulated AO system. aolconf is located in the AOloopControl/scripts directory, along with multiple scripts that it calls.</p>
+<h2>aolrun</h2>
 <p>The following table lists all input / files required prior to running aolrun</p>
 <table class="doxtable">
 <tr>
@@ -329,7 +329,7 @@ mv eigenmodesrespM*.fits ./conf$1/
 <!-- start footer part -->
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
-    <li class="footer">Generated on Fri Jul 10 2015 21:15:53 for AdaptiveOpticsControl by
+    <li class="footer">Generated on Fri Sep 25 2015 10:22:21 for AdaptiveOpticsControl by
     <a href="http://www.doxygen.org/index.html">
     <img class="footer" src="doxygen.png" alt="doxygen"/></a> 1.8.8 </li>
   </ul>

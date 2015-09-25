@@ -11,6 +11,8 @@ var searchData=
   ['listim_5fscr_5fwcol',['listim_scr_wcol',['../COREMOD__memory_8c.html#a1eb50a9cee23de37524836a3433b659e',1,'COREMOD_memory.c']]],
   ['listim_5fscr_5fwrow',['listim_scr_wrow',['../COREMOD__memory_8c.html#a58d431324373b438a591c9aa3d782456',1,'COREMOD_memory.c']]],
   ['listimfile',['Listimfile',['../CLIcore_8c.html#ae5371cd7e46f19a56efdff432345b508',1,'CLIcore.c']]],
+  ['loadcreateshm_5ffplog',['loadcreateshm_fplog',['../AOloopControl_8c.html#a10851f6142513c8b1b074d564acaeeea',1,'AOloopControl.c']]],
+  ['loadcreateshm_5flog',['loadcreateshm_log',['../AOloopControl_8c.html#aaf72f213eb3c9694c75a9ea54ddb4b4c',1,'AOloopControl.c']]],
   ['locoeff',['LOcoeff',['../structAOLOOPCONTROL__DMTURBCONF.html#add3ae0ba50727441f0a838d998297d5e',1,'AOLOOPCONTROL_DMTURBCONF']]],
   ['logdataid',['logdataID',['../structAOLOOPCONTROL__CONF.html#a8e7d812fe0913a79bec7c81eb1d0334c',1,'AOLOOPCONTROL_CONF']]],
   ['logexit',['logexit',['../structLOGSHIM__CONF.html#ade9849e9a2d4a6973b891d0ba46724ed',1,'LOGSHIM_CONF']]],

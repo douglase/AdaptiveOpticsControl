@@ -9,5 +9,6 @@ var searchData=
   ['var',['var',['../structsymrec.html#af3db0c7e569f93a9d7385d5b170578f8',1,'symrec']]],
   ['variable',['VARIABLE',['../structVARIABLE.html',1,'VARIABLE'],['../structDATA.html#a38336f0ef793c2aef2a6f3a20e3e361b',1,'DATA::variable()']]],
   ['variable_5fid',['variable_ID',['../COREMOD__memory_8c.html#ab79e820e973621f5863c3b6e90b981ba',1,'variable_ID(char *name):&#160;COREMOD_memory.c'],['../COREMOD__memory_8h.html#ab79e820e973621f5863c3b6e90b981ba',1,'variable_ID(char *name):&#160;COREMOD_memory.c']]],
-  ['verbose',['Verbose',['../CLIcore_8c.html#a95f627d7054b1abbffa2c6ea19bf05db',1,'CLIcore.c']]]
+  ['verbose',['Verbose',['../CLIcore_8c.html#a95f627d7054b1abbffa2c6ea19bf05db',1,'CLIcore.c']]],
+  ['voltname',['voltname',['../structAOLOOPCONTROL__DM__DISPCOMB__CONF.html#a4e1ed437db8c760bb0a9757d88959211',1,'AOLOOPCONTROL_DM_DISPCOMB_CONF']]]
 ];

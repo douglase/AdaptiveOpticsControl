@@ -27,6 +27,7 @@ var searchData=
   ['comment',['comment',['../structIMAGE__KEYWORD.html#a3ace85ee9471c3170cf09ba95c5dda07',1,'IMAGE_KEYWORD::comment()'],['../structVARIABLE.html#a681a0cb52e89855a9cf7f1bd908ba6ee',1,'VARIABLE::comment()']]],
   ['compute_5fdark_5fsubtract_5fnbthreads',['COMPUTE_DARK_SUBTRACT_NBTHREADS',['../AOloopControl_8c.html#ae11bc2d35bec63a0a0d850064022ff9f',1,'AOloopControl.c']]],
   ['compute_5fgpu_5fscaling',['COMPUTE_GPU_SCALING',['../AOloopControl_8c.html#a152511a044a0d62dc0845cd98fb9a7d2',1,'AOloopControl.c']]],
+  ['contrmcactcnt0',['contrMcactcnt0',['../AOloopControl_8c.html#ad973f3a0ee6cddc02b247b49fdf6db6e',1,'AOloopControl.c']]],
   ['contrmname',['contrMname',['../structAOLOOPCONTROL__CONF.html#a30b003e3e71280aa46e5423021f3c807',1,'AOLOOPCONTROL_CONF']]],
   ['creation_5ftime',['creation_time',['../structIMAGE__METADATA.html#aa0cb87c78a4e3a5693f37f70fad185a0',1,'IMAGE_METADATA']]],
   ['cubesize',['cubesize',['../structsavethreadmsg.html#aabe32dc91c33ab3536ad6d2b6730159f',1,'savethreadmsg']]]

@@ -1,5 +1,7 @@
 var searchData=
 [
+  ['tdiff',['tdiff',['../AOloopControl_8c.html#a68e5522665259f4ae254e3bf493c4b18',1,'tdiff():&#160;AOloopControl.c'],['../cudacomp_8c.html#a68e5522665259f4ae254e3bf493c4b18',1,'tdiff():&#160;cudacomp.c']]],
+  ['tdiffv',['tdiffv',['../AOloopControl_8c.html#ad53086470a2fb4c9e57b950bef50e2c0',1,'tdiffv():&#160;AOloopControl.c'],['../cudacomp_8c.html#ad53086470a2fb4c9e57b950bef50e2c0',1,'tdiffv():&#160;cudacomp.c']]],
   ['tend',['tend',['../structAOLOOPCONTROL__DM__DISPCOMB__CONF.html#a5fd9f2a167ca2ba287624ad8d6d28a90',1,'AOLOOPCONTROL_DM_DISPCOMB_CONF::tend()'],['../structAOLOOPCONTROL__DMTURBCONF.html#a0fef3776d6168218244bb0ed1de2b4c9',1,'AOLOOPCONTROL_DMTURBCONF::tend()']]],
   ['test_5falloc',['TEST_ALLOC',['../CLIcore_8h.html#a6ce45abed084638ca9c884a419acd17f',1,'CLIcore.h']]],
   ['test_5ffftspeed',['test_fftspeed',['../fft_8c.html#ab3fe145c0484fc3b208e8959ac572e40',1,'test_fftspeed(int nmax):&#160;fft.c'],['../fft_8h.html#ab3fe145c0484fc3b208e8959ac572e40',1,'test_fftspeed(int nmax):&#160;fft.c']]],
@@ -10,6 +12,7 @@ var searchData=
   ['ti',['ti',['../AOloopControl_8c.html#a05a0158ad83e91489f1c4c831da613d3',1,'AOloopControl.c']]],
   ['time_5fdiff',['time_diff',['../AOloopControl__DM_8c.html#ab99a9aa7e41d1c1fc35848f51f52b76e',1,'AOloopControl_DM.c']]],
   ['time_5fsec',['time_sec',['../structAOLOOPCONTROL__CONF.html#a677fd2a674cdf2db20608625c029e36f',1,'AOLOOPCONTROL_CONF']]],
+  ['timer',['timer',['../structAOLOOPCONTROL__CONF.html#a31d203062966dd022437a7248d7967a3',1,'AOLOOPCONTROL_CONF']]],
   ['timespec_5fdiff',['timespec_diff',['../00CORE_8c.html#acd8c1457583903d309e19adde6805717',1,'timespec_diff(struct timespec start, struct timespec end):&#160;00CORE.c'],['../00CORE_8h.html#acd8c1457583903d309e19adde6805717',1,'timespec_diff(struct timespec start, struct timespec end):&#160;00CORE.c']]],
   ['timespec_5fdiff_5fdouble',['timespec_diff_double',['../00CORE_8c.html#aa333aaba4981442f52ab55df43d76ac5',1,'timespec_diff_double(struct timespec start, struct timespec end):&#160;00CORE.c'],['../00CORE_8h.html#aa333aaba4981442f52ab55df43d76ac5',1,'timespec_diff_double(struct timespec start, struct timespec end):&#160;00CORE.c']]],
   ['tint',['tint',['../structAOLOOPCONTROL__DMTURBCONF.html#a1d7cbe276afaf5c4de799e619abc3432',1,'AOLOOPCONTROL_DMTURBCONF']]],
@@ -26,7 +29,7 @@ var searchData=
   ['tknvar',['TKNVAR',['../calc__bison_8c.html#a152e7ea3d794ca2d5b0c85a7fe7c0e3f',1,'TKNVAR():&#160;calc_bison.c'],['../calc__bison_8h.html#a152e7ea3d794ca2d5b0c85a7fe7c0e3f',1,'TKNVAR():&#160;calc_bison.h'],['../calc__bison_8c.html#a15c9f7bd2f0e9686df5d9df4f3314aa9a51412363ace6ecc7f0459b537dc39386',1,'TKNVAR():&#160;calc_bison.c'],['../calc__bison_8h.html#a15c9f7bd2f0e9686df5d9df4f3314aa9a51412363ace6ecc7f0459b537dc39386',1,'TKNVAR():&#160;calc_bison.h']]],
   ['tkvar',['TKVAR',['../calc__bison_8c.html#a712c85f9ad28338b601446486b173544',1,'TKVAR():&#160;calc_bison.c'],['../calc__bison_8h.html#a712c85f9ad28338b601446486b173544',1,'TKVAR():&#160;calc_bison.h'],['../calc__bison_8c.html#a15c9f7bd2f0e9686df5d9df4f3314aa9a76bd8a213f492d6234b4c5f431c0d6da',1,'TKVAR():&#160;calc_bison.c'],['../calc__bison_8h.html#a15c9f7bd2f0e9686df5d9df4f3314aa9a76bd8a213f492d6234b4c5f431c0d6da',1,'TKVAR():&#160;calc_bison.h']]],
   ['tlast',['tlast',['../info_8c.html#a60ac265155d44da3a9d8e3ede2e03972',1,'info.c']]],
-  ['tnow',['tnow',['../structAOLOOPCONTROL__CONF.html#ab093c95577638273f80418cc0b881fca',1,'AOLOOPCONTROL_CONF']]],
+  ['tnow',['tnow',['../structAOLOOPCONTROL__CONF.html#ab093c95577638273f80418cc0b881fca',1,'AOLOOPCONTROL_CONF::tnow()'],['../AOloopControl_8c.html#a59d2ab140fff2f63a38f4704a76fc2ec',1,'tnow():&#160;AOloopControl.c'],['../cudacomp_8c.html#a59d2ab140fff2f63a38f4704a76fc2ec',1,'tnow():&#160;cudacomp.c']]],
   ['tp',['tp',['../COREMOD__tools_8c.html#a084509b79284eafd615c138e2f5e2e02',1,'tp(char *word):&#160;COREMOD_tools.c'],['../COREMOD__tools_8h.html#a084509b79284eafd615c138e2f5e2e02',1,'tp(char *word):&#160;COREMOD_tools.c']]],
   ['tree',['tree',['../structkdres.html#a76eebf2c192b36e4ee8a320969f02b13',1,'kdres']]],
   ['tret',['tret',['../COREMOD__memory_8c.html#afbed262f99f763e9aef2c67cee565f97',1,'COREMOD_memory.c']]],

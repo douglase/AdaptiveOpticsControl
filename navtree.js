@@ -1,8 +1,8 @@
 var NAVTREE =
 [
   [ "AdaptiveOpticsControl", "index.html", [
-    [ "Adaptive Optics control", "md_README.html", null ],
-    [ "AO loop control Overview", "md_src_AOloopControl_README.html", null ],
+    [ "Adaptive Optics control", "index.html", null ],
+    [ "AO loop control", "md_src_AOloopControl_README.html", null ],
     [ "Command Line Interface (CLI)", "md_src_CLIcore.html", null ],
     [ "Data Structures", null, [
       [ "Data Structures", "annotated.html", "annotated" ],
@@ -17,7 +17,7 @@ var NAVTREE =
       [ "Globals", "globals.html", [
         [ "All", "globals.html", "globals_dup" ],
         [ "Functions", "globals_func.html", "globals_func" ],
-        [ "Variables", "globals_vars.html", null ],
+        [ "Variables", "globals_vars.html", "globals_vars" ],
         [ "Typedefs", "globals_type.html", null ],
         [ "Enumerations", "globals_enum.html", null ],
         [ "Enumerator", "globals_eval.html", null ],
@@ -30,15 +30,16 @@ var NAVTREE =
 var NAVTREEINDEX =
 [
 "00CORE-util_8c.html",
-"AOloopControl__DM_8c.html#a9d50ee54e14225fd5cc945793b57e0d6",
-"COREMOD__arith_8c.html#a7e5c693907e4912b5c77fa532fb3ca41",
-"COREMOD__arith_8h.html#ad346df2126b11495fd2b3954e3128789",
-"COREMOD__memory_8h.html#a6a091113f9faf14cc69d4c069bb80c08",
-"calc__bison_8c.html#a33c61e326f5675cc74eb9e1a6906595c",
-"calc__flex_8c.html#ac50cdb9eefbef83a1cec89e3a7f6e1d2",
-"globals_vars.html",
-"image__gen_8h.html#afe70fe106564450422a3a036d3b88f86",
-"structAOLOOPCONTROL__CONF.html#ab093c95577638273f80418cc0b881fca"
+"AOloopControl_8h.html#a8b75616de0409597277e78ccc25e8e28",
+"COREMOD__arith_8c.html#a3d0011a757bb75c4099a0298c9c78acc",
+"COREMOD__arith_8h.html#a7a7a0731f1b7821e49b6689c72b3c422",
+"COREMOD__memory_8c.html#acba313cd52a419094415744965378f9b",
+"ZernikePolyn_8h.html#addf3829d18a623fe26fd5129fdb020c6",
+"calc__flex_8c.html#a71ca89b3656acd0552f14949a571560b",
+"globals_defs.html",
+"image__gen-util_8c.html#a2ae4393654913c334053966b038c1e51",
+"linopt__imtools_8c.html#a9570c3d46c58a222324dc170d1c8ff1e",
+"structIMAGE__METADATA.html#a87830cf8b22ec5be4ab2a167ee9db9fa"
 ];
 
 var SYNCONMSG = 'click to disable panel synchronisation';

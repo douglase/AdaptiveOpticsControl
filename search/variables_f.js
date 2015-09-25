@@ -3,7 +3,6 @@ var searchData=
   ['r_5farray',['R_array',['../structZERNIKE.html#ab54550ba1f67c3f7d31c9079dace1aa8',1,'ZERNIKE']]],
   ['re',['re',['../structcomplex__float.html#a170e8285dc5452b1c27d6a97590509dd',1,'complex_float::re()'],['../structcomplex__double.html#af3466e0949b17c561569ba827aa878f4',1,'complex_double::re()']]],
   ['rect',['rect',['../structkdtree.html#aad2df600bbe8cf682fe61ac6847f5e18',1,'kdtree']]],
-  ['refwfscnt0',['refWFScnt0',['../AOloopControl_8c.html#a03b369b8963017ff3185f5935288948f',1,'AOloopControl.c']]],
   ['respmname',['respMname',['../structAOLOOPCONTROL__CONF.html#ad1af43c9e7a9ed5002376c32fd69e16a',1,'AOLOOPCONTROL_CONF']]],
   ['result',['result',['../structTHDATA__IMTOTAL.html#a9e7c01abf8aad470594aa818ef3335d8',1,'THDATA_IMTOTAL']]],
   ['right',['right',['../structkdnode.html#a560fdae1b98325057e95c817f76bee67',1,'kdnode']]],

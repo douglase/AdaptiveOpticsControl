@@ -8,5 +8,6 @@ var searchData=
   ['value',['value',['../structsymrec.html#aabe0b508928c6472fcbdf5071c33b61a',1,'symrec::value()'],['../structIMAGE__KEYWORD.html#a93da8b101ca9f8e620803c6e39316b0e',1,'IMAGE_KEYWORD::value()'],['../structVARIABLE.html#ac78c074d5d0c437357a205d97ee58c70',1,'VARIABLE::value()']]],
   ['var',['var',['../structsymrec.html#af3db0c7e569f93a9d7385d5b170578f8',1,'symrec']]],
   ['variable',['variable',['../structDATA.html#a38336f0ef793c2aef2a6f3a20e3e361b',1,'DATA']]],
-  ['verbose',['Verbose',['../CLIcore_8c.html#a95f627d7054b1abbffa2c6ea19bf05db',1,'CLIcore.c']]]
+  ['verbose',['Verbose',['../CLIcore_8c.html#a95f627d7054b1abbffa2c6ea19bf05db',1,'CLIcore.c']]],
+  ['voltname',['voltname',['../structAOLOOPCONTROL__DM__DISPCOMB__CONF.html#a4e1ed437db8c760bb0a9757d88959211',1,'AOLOOPCONTROL_DM_DISPCOMB_CONF']]]
 ];
