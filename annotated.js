@@ -20,6 +20,7 @@ var annotated =
     [ "res_node", "structres__node.html", "structres__node" ],
     [ "savethreadmsg", "structsavethreadmsg.html", "structsavethreadmsg" ],
     [ "symrec", "structsymrec.html", "structsymrec" ],
+    [ "TCP_BUFFER_METADATA", "structTCP__BUFFER__METADATA.html", "structTCP__BUFFER__METADATA" ],
     [ "THDATA_IMTOTAL", "structTHDATA__IMTOTAL.html", "structTHDATA__IMTOTAL" ],
     [ "VARIABLE", "structVARIABLE.html", "structVARIABLE" ],
     [ "yy_buffer_state", "structyy__buffer__state.html", "structyy__buffer__state" ],

@@ -20,9 +20,9 @@ var searchData=
   ['init_5fcmc',['init_CMc',['../structAOLOOPCONTROL__CONF.html#a7b1f58aaadeec31d152f2494b1120ebd',1,'AOLOOPCONTROL_CONF']]],
   ['init_5frm',['init_RM',['../structAOLOOPCONTROL__CONF.html#ac037d1346e22c2ad75d3502a7d7a3f71',1,'AOLOOPCONTROL_CONF']]],
   ['init_5fwfsref0',['init_wfsref0',['../structAOLOOPCONTROL__CONF.html#a5c6cde0487a26fec184fd33c414e98cf',1,'AOLOOPCONTROL_CONF']]],
-  ['initcontrmcact_5fgpu',['initcontrMcact_GPU',['../AOloopControl_8c.html#a281791a47aa7c6a15c56d601d6ce7a3e',1,'AOloopControl.c']]],
+  ['initcontrmcact_5fgpu',['initcontrMcact_GPU',['../AOloopControl_8c.html#acac008094516af6797c6b0af87b075c6',1,'AOloopControl.c']]],
   ['initmapping',['initmapping',['../structAOLOOPCONTROL__CONF.html#ac36ea63ae42c1dce66eedae8fbd7daed',1,'AOLOOPCONTROL_CONF']]],
-  ['initwfsref_5fgpu',['initWFSref_GPU',['../AOloopControl_8c.html#a250dd87b73fb514681efe1ade76b0a00',1,'AOloopControl.c']]],
+  ['initwfsref_5fgpu',['initWFSref_GPU',['../AOloopControl_8c.html#aeee0c40c3056a20cdd20ceff0c079336',1,'AOloopControl.c']]],
   ['interval',['interval',['../structLOGSHIM__CONF.html#af4a9410a1d66d15e10df76223aeccb50',1,'LOGSHIM_CONF']]],
   ['invrandmax',['INVRANDMAX',['../structDATA.html#aa17d253cb7412ac4cbc8f034dfe78308',1,'DATA']]],
   ['item',['item',['../structres__node.html#a6d1e853ec1f48f263c277344f37f8cc3',1,'res_node']]]

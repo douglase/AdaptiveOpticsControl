@@ -47,7 +47,7 @@ var structAOLOOPCONTROL__CONF =
     [ "sizeDM", "structAOLOOPCONTROL__CONF.html#ae5d0e7cbeb583d44a3f2e6815e8ba7fb", null ],
     [ "sizeDM_active", "structAOLOOPCONTROL__CONF.html#ad9660111fdae1657791d01e36e7f0a9f", null ],
     [ "sizeWFS", "structAOLOOPCONTROL__CONF.html#a5356d94cbd92bbbd016c7414fab01991", null ],
-    [ "sizeWFS_active", "structAOLOOPCONTROL__CONF.html#a0e634ccd570c9488a78ab9160a5977fb", null ],
+    [ "sizeWFS_active", "structAOLOOPCONTROL__CONF.html#af93aabb8f49d8130f90cd138b9442f35", null ],
     [ "sizexDM", "structAOLOOPCONTROL__CONF.html#ae5594424863b939ba332dd90c23945a3", null ],
     [ "sizexWFS", "structAOLOOPCONTROL__CONF.html#a3c5249e7337b0733c4d4dc823d3e5bac", null ],
     [ "sizeyDM", "structAOLOOPCONTROL__CONF.html#a75c007f53da2b54406dd154b92f8fd28", null ],

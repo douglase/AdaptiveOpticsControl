@@ -17,6 +17,8 @@ var searchData=
   ['pfloor',['Pfloor',['../COREMOD__arith_8c.html#a7d0a88428d8d684feb8fc9aa1c31749b',1,'COREMOD_arith.c']]],
   ['pfmod',['Pfmod',['../COREMOD__arith_8c.html#a48f35d5c684b77d75565f34c7182fb5c',1,'COREMOD_arith.c']]],
   ['pi',['PI',['../CLIcore_8h.html#a598a3330b3c21701223ee0ca14316eca',1,'PI():&#160;CLIcore.h'],['../fft_8c.html#a598a3330b3c21701223ee0ca14316eca',1,'PI():&#160;fft.c'],['../image__gen_8c.html#a598a3330b3c21701223ee0ca14316eca',1,'PI():&#160;image_gen.c'],['../ZernikePolyn_8c.html#a598a3330b3c21701223ee0ca14316eca',1,'PI():&#160;ZernikePolyn.c']]],
+  ['pixstream_5fnbslices',['PIXSTREAM_NBSLICES',['../AOloopControl_8c.html#a9c9de7324774fada9c33ac97e3f551c7',1,'AOloopControl.c']]],
+  ['pixstream_5fslice',['PIXSTREAM_SLICE',['../AOloopControl_8c.html#a175ab4080e8f7848b759c428f3dfa907',1,'AOloopControl.c']]],
   ['pln',['Pln',['../COREMOD__arith_8c.html#ad775ad95dd232f8ea5c1c522102ad1fd',1,'COREMOD_arith.c']]],
   ['plog',['Plog',['../COREMOD__arith_8c.html#a4ccbb9b16103aac6d29e34b21ba0cb0d',1,'COREMOD_arith.c']]],
   ['pmaxv',['Pmaxv',['../COREMOD__arith_8c.html#acbb40c2cb0fab8e23650310f102fa8aa',1,'COREMOD_arith.c']]],
